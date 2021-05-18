@@ -1,0 +1,17 @@
+Добрый вечер, спасибо за решения.
+Все верно.
+
+В первом задании как вариант можно использовать более короткую версию с функцией max:
+
+1
+2
+3
+4
+5
+import requests
+r = requests.get('https://www.cbr-xml-daily.ru/daily_json.js')
+
+data_dict = r.json()['Valute']
+max(data_dict.items(), key=lambda x: x[1]['Value'])[1]['Name']
+В последнем можно использовать наследование класса Employee, 
+чтобы поменьше возиться с повышением грейдов сотрудника.

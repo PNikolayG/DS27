@@ -5,9 +5,12 @@
 ### Цель: разработка моделей машинного обучения для определения тональности твитов методами NLP на примере двух задач(датасеты были взяты из Kaggle ссылки приведены под задачами):
 
 1."Hate Speech and Offensive Language Dataset - research hate-speech detection" (перевод с англ. яз. «Набор данных о высказываниях с ненавистью и оскорбительном языке — исследование обнаружения оскорбительных высказываний»)
-	Ссылка: https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
+	
+Ссылка: https://www.kaggle.com/mrmorj/hate-speech-and-offensive-language-dataset
+
 2."Russian Troll Tweets - 3 million tweets from accounts associated with the 'Internet Research Agency'" («Твиты русских троллей — 3 миллиона твитов с аккаунтов, связанных с «Агентством интернет-исследований»)
-	Ссылка: https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
+	
+Ссылка: https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
 
 ### Основные моменты:
 
